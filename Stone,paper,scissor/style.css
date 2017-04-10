@@ -1,0 +1,21 @@
+#rock{
+    width:30vw;
+    height:30vh;
+
+}
+#paper{
+    width:30vw;
+    height:30vh;
+
+}
+#scissors{
+    width:30vw;
+    height:30vh;
+
+}
+#head{
+    width:40vw;
+    height: 40vh;
+    display: block;
+    margin: 0 auto;
+}
